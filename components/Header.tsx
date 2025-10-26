@@ -34,7 +34,7 @@ const Header: React.FC = () => {
         </p>
         <div className="mt-10">
             <a 
-                href="/../cv.pdf" 
+                href="/portfolio/CV_Yassine_DHIFAOUI.pdf"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="font-roboto-mono text-base px-6 py-3 rounded-full transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-[#0d1117] bg-slate-800/50 border border-pink-400/30 text-pink-300 hover:bg-pink-400/20 neon-shadow-pink inline-block"
