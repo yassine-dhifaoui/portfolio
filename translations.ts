@@ -106,7 +106,8 @@ export const translations = {
             "Maintenance et support technique continu pour garantir la fiabilité et la satisfaction des utilisateurs"
           ],
           tech: ["Python", "PySide6/Qt", "SQLite", "PDF (ReportLab)", "Inno Setup", "Git"],
-          link: "https://github.com/yassine-dhifaoui/DentalSoft"
+          link: "https://github.com/yassine-dhifaoui/DentalSoft",
+          videoSrc: "/portfolio/public/DentalSoft_V2.mp4"
         },
         {
           date: "sept. 2023 - août 2024",

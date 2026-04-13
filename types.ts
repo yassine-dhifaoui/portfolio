@@ -17,6 +17,7 @@ export interface ExperienceItem {
   tasks: string[];
   tech: string[];
   link?: string;
+  videoSrc?: string;
 }
 
 export interface EducationItem {
