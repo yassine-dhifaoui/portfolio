@@ -107,7 +107,7 @@ export const translations = {
           ],
           tech: ["Python", "PySide6/Qt", "SQLite", "PDF (ReportLab)", "Inno Setup", "Git"],
           link: "https://github.com/yassine-dhifaoui/DentalSoft",
-          videoSrc: "/portfolio/public/DentalSoft_V2.mp4"
+          videoSrc: "/portfolio/DentalSoft_V2.mp4"
         },
         {
           date: "sept. 2023 - août 2024",
